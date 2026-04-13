@@ -23,7 +23,8 @@ CamoTab is a Chrome extension that instantly replaces your tab's title and favic
 
 ## 📸 Demo
 
-> Add a GIF here showing the popup opening, a preset being selected, and the tab title + favicon changing
+> ![CamoTab Demo](/camotab.mp4)
+
 
 ---
 
